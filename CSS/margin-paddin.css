@@ -3,5 +3,28 @@
     background-color: green;
     color: #ffff;
     width: 500px;
+    margin: 50px;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 5px;
 
+}
+
+#EXEMPLO2 {
+    background-color: rgb(127, 41, 163);
+    color: #000000;
+    width: 500px;
+    margin: 50px;
+    padding: 20px 10px 15px 25px;
+    
+}
+
+#EXEMPLO3 {
+    background-color: rgb(205, 139, 234);
+    color: #ffffff;
+    width: 500px;
+    margin: 50px;
+    padding: 20px;
+    
 }
