@@ -1,0 +1,44 @@
+*{margin: 0%;padding: 0%;}
+P{
+    color: rgb(255, 0, 221);
+    text-align:justify ;
+    text-transform:uppercase;
+    letter-spacing: 5px;
+    text-shadow: 5px 7px black;
+}
+#texto2{
+    color: rgb(38, 255, 0);
+    text-align:right ;
+    text-transform:lowercase;
+    letter-spacing: 10px;
+}
+#texto3{
+    color: rgb(98, 177, 189);
+    text-align:left ;
+    text-transform:capitalize;
+    background-color: darkolivegreen;
+    letter-spacing: 15px;
+}
+P{
+    color: red;
+    text-align:justify ;
+    text-transform:uppercase;
+}
+
+
+
+h1{
+    color: green;
+    text-align: left;
+    text-decoration: underline;
+}
+h2{
+    color: blue;
+    text-align: right;
+    text-decoration: overline;
+}
+h3{
+    color: orange;
+    text-align:center;
+    text-decoration: line-through;
+}
